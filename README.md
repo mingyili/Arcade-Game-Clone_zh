@@ -58,5 +58,4 @@
 
 * 项目来自[优达学城](https://cn.udacity.com/)前端进阶课程，课程需要，所以引用到本人的github项目下；
 * 关于如何开始这个项目的更详细的指导，可以查阅这份[指南](http://discussions.youdaxue.com/t/topic/32577)；
-* [项目来源]([指南](https://gdgdocs.org/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true))；
-*
+* [项目来源](https://gdgdocs.org/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true)；
